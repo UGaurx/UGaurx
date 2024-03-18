@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @U-Gaur
+- 👋 Hi, I’m @UGaurx
 - 👀 I’m interested in AI and its applications.
 - 🌱 I’m currently learning about CyberSecurity 
 - 💞️ I’m looking to collaborate on Java projects
