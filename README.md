@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ugaurx/count.svg?"  />
+  <p>(Views till date.)</p>
 </div>
 
 ###
